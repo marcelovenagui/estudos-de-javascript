@@ -1,13 +1,17 @@
 @charset "UTF-8";
 
 body{
-    background-color: aqua;
+    background-color: rgb(55, 84, 247);
     font: normal 15pt arial;
     position: relative;
 }
 
 header{
     color: aliceblue;
+    text-align: center;
+}
+
+div{
     text-align: center;
 }
 
